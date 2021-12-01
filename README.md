@@ -29,11 +29,13 @@ The cards are positioned randomly when the page is loaded/refreshed.
 
 # Contribution
 Any contributions are welcomed and appreciated.
-Contributors will be listed under authors section.
+Contributors will be listed under contributors section that will be added.
 
 ## Legal
 This repository is meant for educational purposes.
 The emoji pictures used in this repository are taken from this
-[link]
+[link] and are not mine.
+
+U.S. Copyright Law also allows copyrighted materials to be used in the course of classroom presentations, assignments and learning aids.
 
 [link]:https://www.istockphoto.com/vector/emoticons-set-emoji-faces-emoticon-funny-smile-vector-collection-gm1133368316-300781575
