@@ -27,5 +27,8 @@ The cards are positioned randomly when the page is loaded/refreshed.
 - option to design your own cards
 - winning animation
 
+# Contribution
+Any contributions are welcomed and appreciated.
+Contributors will be listed under authors section.
 ## Legal
 
