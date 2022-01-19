@@ -16,16 +16,16 @@ The cards are positioned randomly when the page is loaded/refreshed.
 2. One step back: unflip the flipped card; revert a move
 
 # Planning To Do
-- [] 4x4 grid, 5x5 grid
-- [] change background to your chosen color or image
-- [] change cards color to your chosen one
-- [] timer
-- [] lives
-- [] count of moves
-- [] personal record in time and moves
-- [] option to choose between emojis and colors of flipped cards
-- [] option to design your own cards
-- [] winning animation
+- [ ] 4x4 grid, 5x5 grid
+- [ ] change background to your chosen color or image
+- [ ] change cards color to your chosen one
+- [ ] timer
+- [ ] lives
+- [ ] count of moves
+- [ ] personal record in time and moves
+- [ ] option to choose between emojis and colors of flipped cards
+- [ ] option to design your own cards
+- [ ] winning animation
 
 # Contribution
 Any contributions are welcomed and appreciated.
